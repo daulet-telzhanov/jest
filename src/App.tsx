@@ -5,7 +5,7 @@ const App:FC = () => (
 
     <div className="App">
         <header>
-            HEllO JESt
+            HEllO JEST
         </header>
     </div>
 );
